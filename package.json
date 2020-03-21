@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JamesJansson/covid19backprojection/issues"
   },
-  "homepage": "https://github.com/JamesJansson/covid19backprojection#readme"
+  "homepage": "https://github.com/JamesJansson/covid19backprojection#readme",
+  "dependencies": {
+    "eslint": "^6.8.0"
+  }
 }
