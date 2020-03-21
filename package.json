@@ -1,0 +1,19 @@
+{
+  "name": "covid19backprojection",
+  "version": "1.0.0",
+  "description": "covid19backprojection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesJansson/covid19backprojection.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JamesJansson/covid19backprojection/issues"
+  },
+  "homepage": "https://github.com/JamesJansson/covid19backprojection#readme"
+}
